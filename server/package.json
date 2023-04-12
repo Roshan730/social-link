@@ -15,7 +15,6 @@
   },
   "name": "server",
   "version": "1.0.0",
-  "main": "node index.js",
   "type": "module",
   "devDependencies": {},
   "scripts": {
