@@ -36,7 +36,7 @@ const PostWidget = ({
 
   const patchLike = async () => {
     const response = await fetch(
-      `http://localhost:10000/posts/${postId}/like`,
+      `https://social-link-backend.onrender.com/posts/${postId}/like`,
       {
         method: "PATCH",
         headers: {

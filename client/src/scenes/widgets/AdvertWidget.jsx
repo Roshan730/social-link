@@ -20,7 +20,7 @@ const AdvertWidget = () => {
         width="100%"
         height="auto"
         alt="advert"
-        src="http://localhost:10000/assets/info4.jpeg"
+        src="https://social-link-backend.onrender.com/assets/info4.jpeg"
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
